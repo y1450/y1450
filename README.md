@@ -4,6 +4,7 @@
 - Skilled in Python, SQL, and Linux, 
 In my free time, I like to do bouldering and running.
 
+. Always passionate of learning. Currently, expanding my skills in data engineering tools and contributing to open source projects.
 
 - I maintain a blog 📔[Notes](https://y1450.vercel.app/).
 
